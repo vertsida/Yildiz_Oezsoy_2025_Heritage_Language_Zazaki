@@ -1,0 +1,99 @@
+---
+title: "Transmission of Zazaki as a Heritage Language: Germany and Turkey"
+date: last-modified
+format: html
+author:
+  - name: Ali Yıldız
+    email: ayildiz8@smail.uni-koeln.de
+    affiliation: 
+      - name: University of Cologne, Institute of Linguistics
+abstract: > 
+  The characteristic theme of the works of Stone is 
+  the bridge between culture and society. ...
+keywords:
+  - heritagea language
+  - multilingualism
+  - bilingualism
+  - german
+  - turkish
+  - zazaki
+  - zaza language
+  
+license: "CC BY"
+copyright: 
+  holder: Ali Yıldız
+  year: 2025
+funding: "The author received no specific funding for this work."
+---
+
+CITED = Formatting Required CITE = Add Appropriate Citation
+
+# Introduction
+
+In multilingualism research, there is a growing recognition that multilinguals are not a homogenous group, given the high degree of individual variation, and that more factors must be taken into account when investigating their linguistic profiles. One subgroup of multilinguals that has been gaining scholarly attention (Fridman & Özsoy 2024) are heritage speakers (Polinsky 2011 CITED).
+
+Polinsky (2015 CITED) defines heritage language speakers as individuals who grow up in families where a language other than the dominant language of the surrounding society is spoken at home. This heritage language is typically acquired in early childhood through natural, informal communication with family members, often as the first language or alongside the community’s majority language. However, because schooling, peers, and wider society predominantly use the majority language, many heritage speakers gradually become more proficient in that language, which then becomes dominant in adulthood. As a result, they often develop an imbalanced bilingualism, characterized by stronger receptive skills (listening and comprehension) than productive skills (speaking, reading, and writing) in the heritage language. While they may retain native-like pronunciation and everyday vocabulary, they often display gaps in grammar, literacy, and formal registers. Heritage speakers vary along a wide continuum: some are nearly balanced bilinguals, whereas others understand their heritage language well but speak it only rarely.
+
+The distinction between heritage speakers and other multilinguals has been approached in different ways. The so-called weak definition describes heritage speakers simply as individuals who are born into a majority-language environment where a different language is spoken at home \[CITE\]. Other research incorporates additional criteria, such as age of arrival in the majority-language environment, mode and setting of heritage language acquisition, extent of formal education in the heritage language, or whether the heritage language is the societal language in their place of residence \[CITE\]. Unlike other multilingual groups, such as second language learners, heritage speakers often display unique language processing profiles, incomplete acquisition patterns, and a stronger emotional or identity-based connection to their heritage language \[CITE\].
+
+Research on heritage languages has been broad, with social \[CITE\] and cognitive \[CITE\] aspects being individually well studied. However, there has been relatively little work bridging these two domains, with a few notable exceptions \[CITE; CITE\]. This study aims to address this gap by combining a cultural vocabulary test with an inhibition task.
+
+Heritage language (HL) maintenance is shaped by a complex interplay of linguistic, cognitive, and sociocultural factors, with identity playing a central role. For many heritage speakers, the degree to which they identify with their HL and its associated culture can influence how they navigate between languages in daily life. One area where this becomes particularly visible is inhibition, a cognitive process that enables individuals to suppress irrelevant information or competing language systems. We hypothesize that speakers with a strong identification with their HL may show lower inhibitory demands when processing it, as the language is more salient, emotionally anchored, and frequently activated in their mental repertoire. Conversely, weaker identification may lead to stronger reliance on inhibitory control to manage cross-linguistic interference.
+
+Vocabulary knowledge serves here as an indicator of how the HL has been transmitted across generations, especially in contexts where institutional or governmental support for the language is limited. It can reveal the scope of lexical retention, areas of attrition, and domains of cultural embedding. In our study, vocabulary results are not only a measure of linguistic competence but also a reflection of the sociopolitical conditions under which the HL survives.
+
+To better understand the broader dynamics influencing both vocabulary and inhibition, we incorporate data from the HeLex survey, which documents participants’ backgrounds, including socioeconomic status, educational history, place of residence, length of residence in different regions, and knowledge of other languages. These variables allow us to situate individual performance within the larger ecology of heritage language use and identity formation.
+
+## (Cultural) Vocabulary
+
+Cultural vocabulary is shows that different diasporic contexts can meaningfully influence heritage language maintenance and that culture-specific vocabulary tends to be more resilient than neutral or basic vocabulary. Beyond the domain-specific cognitive capacity of language, we also examine the relationship between heritage language maintenance and the domain-general capacity of inhibitory control. Shan (2024) is the first to assess inhibitory control in heritage speakers using the Stroop task, revealing correlations between cognitive control and heritage language experience.
+
+## Inhibition in Heritage Language Speakers
+
+## Zazaki as a Heritage Language
+
+As noted earlier, many research on heritage langauges focused on well-studied languages such as Spanish in US or Turkish in Germany. Other varieties have remained underexplored, and in order to address this gap, this research targets Zazaki. Being a northwestern Iranian language spoken primarily in eastern turkey and metropols such as Istanbul Ankara Izmir and Mersin, Zazaki has worldwide around 4-6 million speakers.
+
+# Methodology
+
+## Participants
+
+There are XX participants in this study (n=XX) forming two main groups: a) speakers from Turkey who speak Turkish as dominant & majority language and b) speakers speaking German as dominant & majority language.
+
+The first group origin from Dersim, where xxx dialect of Zazaki is spoken \[CITE\]. \[Put Metadata Here\] The second group on the other hand is diverse and drives speakers from various cities, such as Bingöl and Diyarbakir, incorporating diferent dialects of Zaza is spoken \[CITE\]. It must be noted that a great number of Zaza heritage speakers in Germany are both fluent speakers in Turkish and Zazaki, as monolingual policies that targeted erasure of Zaza precedes so called guest worker migration to Germany, which leaded a Turkish as lingua franca in between guest workers coming from Turkey in the region, forming a group dominant language \[CITE\].
+
+## Procedure
+
+To address our research questions, we developed a web-based experiment using PCIbex (Zehr & Schwarz, 2018). Participants completed three tasks: a vocabulary translation task with heritage language vocabulary, a Stroop task (in the dominant language: German, English, or Turkish), and an adapted version of the HeLEx questionnaire (Tomić et al., 2023).
+
+### (Cultural) Vocabulary Task
+
+In the task, 20 randomly selected, corpus-driven vocabulary items were presented in a random order. Unlike Shabtaev’s (2024) study, where participants completed a yes/no picture-naming task to indicate whether they knew the item, our study asked participants to translate or describe the given vocabulary item. This approach was chosen to minimize the possibility of random guessing. The stimuli were designed to cover a range of semantic areas and frequency levels, so as not to overrepresent a single semantic field and to include words of varying frequencies. Loanwords from Turkish were excluded to avoid potential linguistic transfer or interference effects. Given that Zazaca is spoken with considerable variation, some words were presented with possible dialectal differences, for example, *zaf* or *zof* (‘very’), and participants were asked to provide only one variant of the item.
+
+### Stroop Task
+
+After the vocabulary task, participants completed a Stroop task. The task involved four colors: blue, green, red, and yellow. Participants were instructed to press the **F** key for congruent stimuli and the **J** key for incongruent stimuli. To minimize distraction effects in the initial responses, a practice round of 10 words was administered first. Each trial began with a fixation cross (+) displayed at the stimulus location for 300 ms to help participants focus. The stimulus was then shown for 2000 ms, after which feedback (“correct” or “incorrect”) was displayed for 500 ms. Responses made after 2000 ms were considered incorrect. All text in this task was presented in a substantially larger font to improve accessibility for participants with visual impairments.
+
+### Heritage Language Questionnaire (HeLEx)
+
+# Data Processing & Analysis
+
+## Bayesian Statistics
+
+# Results
+
+# Discussion
+
+# Conclusion
+
+# Data Availability Statement
+
+**\[UPDATE\]** The experimental materials, analyses and data that supports the findings of this study are openly available via the Open Science Framework at the following link:
+
+# Competing Interests
+
+**\[UPDATE\]** The author identifies as Zaza, which is also the focus of this research. This connection is disclosed in the interest of transparency. The author declares no competing interests.
+
+# Publishing Ethics
+
+**\[UPDATE\]** The authors assert that all procedures contributing to this work comply with the ethical standards of the relevant national and institutional committees on human experimentation and with the Helsinki Declaration of 1975, as revised in 2008. The current study was approved by the ethics committee of the University of Cologne (application XX / 2025)
